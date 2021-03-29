@@ -1,9 +1,9 @@
-module github.com/filecoin-project/go-statestore
+module github.com/chenjianmei111/go-statestore
 
 go 1.13
 
 require (
-	github.com/filecoin-project/go-cbor-util v0.0.0-20191219014500-08c40a1e63a2
+	github.com/chenjianmei111/go-cbor-util v0.0.0-20210329091012-4d7bc9b082a7
 	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190812055157-5d271430af9f // indirect
 	github.com/ipfs/go-cid v0.0.4-0.20191112011718-79e75dffeb10 // indirect
